@@ -1,7 +1,8 @@
 #!/bin/sh
 
 mkdir -p ../fonts/
-fontmake -u LibreBaskerville-Light.ufo -o otf --output-path ../fonts/LibreBaskerville-Light.otf
-fontmake -u LibreBaskerville-Regular.ufo -o otf --output-path ../fonts/LibreBaskerville-Regular.otf
-fontmake -u LibreBaskerville-Bold.ufo -o otf --output-path ../fonts/LibreBaskerville-Bold.otf
-fontmake -u LibreBaskerville-ExtraBold.ufo -o otf --output-path ../fonts/LibreBaskerville-ExtraBold.otf
+fontmake -u LibreBaskervilleNew-Light.ufo -o otf --output-path ../fonts/LibreBaskervilleNew-Light.otf
+fontmake -u LibreBaskervilleNew-Regular.ufo -o otf --output-path ../fonts/LibreBaskervilleNew-Regular.otf
+fontmake -u LibreBaskervilleNew-Italic.ufo -o otf --output-path ../fonts/LibreBaskervilleNew-Italic.otf
+fontmake -u LibreBaskervilleNew-Bold.ufo -o otf --output-path ../fonts/LibreBaskervilleNew-Bold.otf
+fontmake -u LibreBaskervilleNew-ExtraBold.ufo -o otf --output-path ../fonts/LibreBaskervilleNew-ExtraBold.otf
