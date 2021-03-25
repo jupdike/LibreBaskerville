@@ -28,7 +28,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>Libre Baskerville New</string>
+	<string>Libre Baskerville New Light</string>
 	<key>openTypeNameDescription</key>
 	<string>Libre Baskerville New is a webfont optimized for web body text (typically 16px). It's based on 1941 ATF Specimens, but it has a taller x height, wider counters and minor contrast that allow it to work on small sizes in any screen.</string>
 	<key>openTypeNameDesigner</key>
@@ -48,7 +48,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Light</string>
 	<key>openTypeNameUniqueID</key>
-	<string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville New: 2012</string>
+	<string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville New Light: 2012</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -160,11 +160,11 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LibreBaskerville-Regular</string>
+	<string>LibreBaskerville-Light</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Libre Baskerville New</string>
+	<string>Libre Baskerville New Light</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -191,9 +191,9 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>styleMapFamilyName</key>
 	<string>Libre Baskerville New</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>light</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Light</string>
 	<key>trademark</key>
 	<string>Libre Baskerville is a trademark of Pablo Impallari</string>
 	<key>unitsPerEm</key>

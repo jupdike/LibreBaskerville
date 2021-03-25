@@ -28,7 +28,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>Libre Baskerville New</string>
+	<string>Libre Baskerville New Regular</string>
 	<key>openTypeNameDescription</key>
 	<string>Libre Baskerville New is a webfont optimized for web body text (typically 16px). It's based on 1941 ATF Specimens, but it has a taller x height, wider counters and minor contrast that allow it to work on small sizes in any screen.</string>
 	<key>openTypeNameDesigner</key>
@@ -48,7 +48,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
-	<string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville New: 2012</string>
+	<string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville New Regular: 2012</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -164,7 +164,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Libre Baskerville New</string>
+	<string>Libre Baskerville New Regular</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
