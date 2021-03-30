@@ -2,7 +2,7 @@
 Libre Baskerville New Fonts
 ======================
 
-This repo collects up font files for the OFL typeface Libre Baskerville New. Starting with the modifications and new weights made by [India Type Foundry](https://github.com/itfoundry/LibreBaskerville) and adding back the [original italic](https://github.com/impallari/Libre-Baskerville/) from [Impallari Type](https://github.com/impallari?tab=repositories), we now have a total of 5 OTF files, found in the `fonts` folder. (The four weights were built from the ITFoundry UFOs using [`fontmake`](https://github.com/googlefonts/fontmake) version 2.3.1. The italic is built from an UFO converted from the original italic OTF file using FontForge.)
+This repo collects up font files for the OFL typeface Libre Baskerville New. Starting with the modifications and new weights made by [Indian Type Foundry](https://github.com/itfoundry/LibreBaskerville) and adding back the [original italic](https://github.com/impallari/Libre-Baskerville/) from [Impallari Type](https://github.com/impallari?tab=repositories), we now have a total of 5 OTF files, found in the `fonts` folder. (The four weights were built from the ITFoundry UFOs using [`fontmake`](https://github.com/googlefonts/fontmake) version 2.3.1. The italic is built from an UFO converted from the original italic OTF file using FontForge.)
 
 Pablo Impallari’s original README follows.
 
